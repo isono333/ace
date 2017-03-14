@@ -3,7 +3,7 @@ import MemoItem from './MemoItem';
 import Masonry from 'react-masonry-component';
 
 const masonryOptions = {
-  transitionDuration: 200,
+  transitionDuration: 100,
 };
 
 export default class MemoList extends React.Component {
